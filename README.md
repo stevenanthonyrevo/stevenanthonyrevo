@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 * Specific Challenge - Currently stuck on coding my own low-level database similar to SQLite.
 
 ### 💬 Ask me about
-* Portainer, Docker, and Three.JS - My ebook titled "90 Days With Portainer - A Sensible Guide On Containerization".
+* Portainer, Docker, and Three.JS - My ebook titled ["90 Days With Portainer - A Sensible Guide On Containerization"](https://leanpub.com/90dayswithportainer).
 
 ### 📫 How to reach me:
 * **Email:** [stevenanthonyrevo@live.com]
