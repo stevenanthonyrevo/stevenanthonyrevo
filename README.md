@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 * [He/Him]
 
 ### ⚡ Fun fact:
-* [Insert a quirky fact about yourself, like "I have a collection of 50 vintage keyboards" or "I can solve a Rubik's cube in 30 seconds."]
+* I'm not a Computer Science Degree holder, I'm a Fine Art's degree holder. 
